@@ -53,5 +53,3 @@ def classifyTriangle(a,b,c):
         return 'Scalene'
     else:
         return 'Isoceles'
-        
-    '''test'''
